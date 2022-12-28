@@ -53,6 +53,6 @@ def print_info(depth, i, row, wanted_nb):
 
 
 if __name__ == "__main__":
-    wanted_folowing_divisors = [2, 3, 4, 5]
+    wanted_folowing_divisors = [3, 4, 5]
     depth_search = 2000
     PT(wanted_folowing_divisors, depth_search)
